@@ -1,2 +1,0 @@
-q -> question
-a -> answer
